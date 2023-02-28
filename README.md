@@ -5,7 +5,6 @@ Assembler for an imaginary 32-bit computer, this project is an assignment in a C
 
 ##### Task Summery: Create an assembler for fictional assembly language defined by openu course.
 
-##### Implementation Overview and general approach:
 
 #### Objectives (Goals): ### 
 1) Efficiency in memory: It was important to us allocate memory dynmically and make its size fit exact as required for each specific memory image output of the program.
