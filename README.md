@@ -5,7 +5,7 @@ Assembler for an imaginary 32-bit computer, this project is an assignment in a C
 
 ##### Task Summery: Create an assembler for fictional assembly language defined by openu course.
 
-#### University explicit specification for the project:
+#### University explicit specification for the project: https://github.com/ShorEdo/OpenU_Assembler_32Bit/blob/main/OpenU%20Project%20specifications.pdf
 
 
 #### Objectives (Goals): ### 
