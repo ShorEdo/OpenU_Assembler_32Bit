@@ -15,3 +15,4 @@ Assembler for an imaginary 32-bit computer, this project is an assignment in a C
 
 3) Absctration of data structures and variable use to fit our needs by definning different typedef structs types enums and constants.
 
+##### Final score: 100.
